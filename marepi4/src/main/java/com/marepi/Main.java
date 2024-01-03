@@ -1,4 +1,4 @@
-package marepi4.src.main.java.com.marepi;
+package com.marepi;
 
 public class Main {
     public static void main(String[] args) {
