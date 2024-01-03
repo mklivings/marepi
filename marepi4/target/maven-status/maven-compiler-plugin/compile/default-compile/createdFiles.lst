@@ -1,2 +1,6 @@
 com/marepi/Main.class
+com/marepi/PwmActuator.class
 com/marepi/Servo.class
+com/marepi/ServoMotor.class
+com/marepi/PIN.class
+com/marepi/Component.class
