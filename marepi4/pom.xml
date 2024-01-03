@@ -11,6 +11,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+        <pi4j.version>2.3.0</pi4j.version>
     </properties>
 
     <dependencyManagement>
@@ -18,15 +19,8 @@
             <dependency>
                 <groupId>com.pi4j</groupId>
                 <artifactId>pi4j-core</artifactId>
-                <version>1.1</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
 
 </project>
-
-<!-- <dependency>
-    <groupId>com.pi4j</groupId>
-    <artifactId>pi4j-core</artifactId>
-   <version>1.1</version>
-</dependency> -->
